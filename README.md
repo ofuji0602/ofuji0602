@@ -12,11 +12,11 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js," /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=ruby,ruby on rails," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=ruby," /> <br /><br />
 
 ## DB and Dev Tools etc
 
