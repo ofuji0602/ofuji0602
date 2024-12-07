@@ -3,13 +3,6 @@
 
 
 # Stats
-
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ofuji0602&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ofuji0602/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofuji0602&layout=compact&theme=tokyonight)](https://github.com/ofuji0602/)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ofuji0602&count_private=true&rank=-?)](https://github.com/ofuji0602/github-profile-trophy)
 
 [![ofuji0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuji0602&include_all_commits&count_private=true)](https://github.com/ofuji0602/github-readme-stats)
