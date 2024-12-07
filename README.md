@@ -3,6 +3,16 @@
 
 
 # Stats
+# Stats
+<p align="left">
+  <a href="https://github.com/ofuji0602">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ofuji0602" />
+  </a>
+  <a href="https://github.com/ofuji0602">
+    <img height="20" src="https://img.shields.io/github/followers/ofuji0602?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ofuji0602&count_private=true&rank=-?)](https://github.com/ofuji0602/github-profile-trophy)
 
 [![ofuji0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuji0602&include_all_commits&count_private=true)](https://github.com/ofuji0602/github-readme-stats)
