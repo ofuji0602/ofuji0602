@@ -1,23 +1,5 @@
-# About Me
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ofuji0602/)
 
-1. I'm a web frontend and backend developer from Japan
-
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
-
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
-
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js," /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=ruby," /> <br /><br />
-
-## DB and Dev Tools etc
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,figma" /> <br /><br />
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ofuji0602/)
