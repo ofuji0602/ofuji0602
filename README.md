@@ -2,14 +2,6 @@
 [https://cafe-book.onrender.com/](https://github.com/ofuji0602/cafe_book/blob/main/README.md)
 
 # Stats
-<p align="left">
-  <a href="https://github.com/ofuji0602">
-    <img height="20" src="https://komarev.com/ghpvc/?username=ofuji0602" />
-  </a>
-  <a href="https://github.com/ofuji0602">
-    <img height="20" src="https://img.shields.io/github/followers/ofuji0602?label=follow&logo=github&style=flat" />
-  </a>
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ofuji0602&count_private=true&rank=-?)](https://github.com/ofuji0602/github-profile-trophy)
 
