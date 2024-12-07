@@ -1,8 +1,6 @@
 # MyApp
 [https://cafe-book.onrender.com/](https://github.com/ofuji0602/cafe_book/blob/main/README.md)
 
-
-# Stats
 # Stats
 <p align="left">
   <a href="https://github.com/ofuji0602">
