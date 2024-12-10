@@ -1,7 +1,7 @@
 # MyApp
 [https://cafe-book.onrender.com/](https://github.com/ofuji0602/cafe_book/blob/main/README.md)
 
-# Stats
+# MyProfile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ofuji0602&count_private=true&rank=-?)](https://github.com/ofuji0602/github-profile-trophy)
 
