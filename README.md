@@ -14,3 +14,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ofuji0602&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ofuji0602&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ofuji0602&theme=dark&utcOffset=8)
+
+### Languages
+![](https://skillicons.dev/icons?i=html,css,js,ruby)
+
+### Frameworks and Library
+![](https://skillicons.dev/icons?i=rails,react)
+
+### DB and Dev Tools etc
+![](https://skillicons.dev/icons?i=git,docker,postgres)
